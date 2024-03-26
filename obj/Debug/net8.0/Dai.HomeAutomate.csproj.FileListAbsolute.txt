@@ -128,3 +128,4 @@ C:/Users/daitn/source/repos/Dai.HomeAutomate/Dai.HomeAutomate/obj/Debug/net8.0/r
 /home/dai/Dai.HomeAutomate/obj/Debug/net8.0/Dai.HomeAutomate.pdb
 /home/dai/Dai.HomeAutomate/obj/Debug/net8.0/Dai.HomeAutomate.genruntimeconfig.cache
 /home/dai/Dai.HomeAutomate/obj/Debug/net8.0/ref/Dai.HomeAutomate.dll
+/home/dai/Dai.HomeAutomate/obj/Debug/net8.0/Dai.HomeAutomate.sourcelink.json
