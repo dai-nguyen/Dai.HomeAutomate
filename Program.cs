@@ -15,9 +15,6 @@ builder.Services.AddLogging(c => c.AddSerilog());
 builder.Services.AddQuartz(options =>
 {
     options.UseInMemoryStore();
-
-    // 0 30 7 * * ? : starts at 7:30 every day
-
     options.ScheduleJob<TurtleTankJob>(trigger =>
         trigger.WithIdentity("Turtle Tank Job")        
         .UsingJobData("on", true)
