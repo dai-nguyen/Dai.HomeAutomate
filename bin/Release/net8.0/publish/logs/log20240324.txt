@@ -1,0 +1,17 @@
+2024-03-24 21:11:33.202 -07:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-03-24 21:11:33.486 -07:00 [INF] Quartz Scheduler created
+2024-03-24 21:11:33.490 -07:00 [INF] JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory
+2024-03-24 21:11:33.492 -07:00 [INF] RAMJobStore initialized.
+2024-03-24 21:11:33.500 -07:00 [INF] Quartz Scheduler 3.8.1.0 - 'QuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-03-24 21:11:33.503 -07:00 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-03-24 21:11:33.506 -07:00 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-03-24 21:11:33.650 -07:00 [INF] Adding 1 jobs, 1 triggers.
+2024-03-24 21:11:33.668 -07:00 [INF] Adding job: DEFAULT.Turtle Tank Job
+2024-03-24 21:11:33.894 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-24 21:11:33.913 -07:00 [INF] Scheduler QuartzScheduler_$_NON_CLUSTERED started.
+2024-03-24 21:11:33.934 -07:00 [INF] Hosting environment: Production
+2024-03-24 21:11:33.943 -07:00 [INF] Content root path: /home/dai/Dai.HomeAutomate/bin/Release/net8.0/publish
+2024-03-24 21:11:38.073 -07:00 [INF] Application is shutting down...
+2024-03-24 21:11:38.162 -07:00 [INF] Scheduler QuartzScheduler_$_NON_CLUSTERED shutting down.
+2024-03-24 21:11:38.167 -07:00 [INF] Scheduler QuartzScheduler_$_NON_CLUSTERED paused.
+2024-03-24 21:11:38.199 -07:00 [INF] Scheduler QuartzScheduler_$_NON_CLUSTERED Shutdown complete.
