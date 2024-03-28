@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dai.HomeAutomate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+780ab3de7dafc47303ece8856cb8d2e86c37eda5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbf84ce9fefb5c0069570dfbc87fc8170bfdb74a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dai.HomeAutomate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dai.HomeAutomate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

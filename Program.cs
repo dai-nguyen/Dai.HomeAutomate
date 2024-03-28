@@ -18,7 +18,7 @@ builder.Services.AddQuartz(options =>
     options.ScheduleJob<TurtleTankJob>(trigger =>
         trigger.WithIdentity("Turtle Tank Job")        
         .UsingJobData("on", true)
-        .WithCronSchedule("0 0 7-18 ? * * *", x => x.InTimeZone(TimeZoneInfo.FindSystemTimeZoneById("America/Los_Angeles"))));
+        .WithCronSchedule("0 0 7-17 ? * * *", x => x.InTimeZone(TimeZoneInfo.FindSystemTimeZoneById("America/Los_Angeles"))));
 });
 builder.Services.AddQuartzHostedService(options =>
 {
